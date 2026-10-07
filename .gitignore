@@ -1,0 +1,13 @@
+/target
+**/*.rs.bk
+.claude/worktrees/
+
+# Game content never goes in this repo.
+*.pak
+*.utoc
+*.ucas
+*.usmap
+*.sig
+games/*.toml
+!games/example.toml
+fixtures/local/

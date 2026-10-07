@@ -1,0 +1,6 @@
+ue-rust
+Copyright 2026 Wildware UK
+
+Parts of this project port file-format logic from CUE4Parse
+(https://github.com/FabianFG/CUE4Parse), licensed under the Apache License 2.0.
+Each ported file says so at its top.
